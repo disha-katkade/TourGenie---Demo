@@ -1,2 +1,2 @@
-# TourGenie---Demo
+# TourGenie
 AI/ML Based Product Idea
